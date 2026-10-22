@@ -1,0 +1,7 @@
+Creează un landing page responsive pentru o cafenea modernă și primitoare. 
+Pagina trebuie să conțină un header cu meniu de navigare, o secțiune Hero 
+cu un mesaj de bun venit, o secțiune Despre Noi, o secțiune Meniu cu 3 
+carduri de produse, o secțiune Contact și un Footer. Folosește HTML5 
+semantic, CSS3 și Flexbox pentru layout. Utilizează o paletă de culori 
+calde (maro închis, bej și auriu). Asigură-te că site-ul este complet 
+adaptabil pe dispozitivele mobile folosind Media Queries.
